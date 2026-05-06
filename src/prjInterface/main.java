@@ -23,7 +23,7 @@ public class main {
 		//CASTING Animal em Cachorro
 		Cachorro c = new Cachorro();
 		c.latir();
-		c .correr();
+		c.correr("de forma rapida");
 		
 		if (x.equals(y)) { 
 			System.out.println ("São iguais!");
